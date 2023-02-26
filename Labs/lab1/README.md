@@ -118,3 +118,6 @@ git commit -am 'merge conflict resolved'
 ```
 git push origin main
 ```
+- Images
+![git image 1](https://user-images.githubusercontent.com/53370534/221392675-45c7f7a3-0ae3-4a8d-8f68-fc9e7b10d8b3.png)
+![git image 2](https://user-images.githubusercontent.com/53370534/221392676-00a7e168-eeb8-48d2-89b0-33dd4955e171.png)
